@@ -1,6 +1,6 @@
 # *111-1師大科技系程式語言*
 ### 授課教師：[蔡芸琤老師](https://github.com/pecu)
-### 姓名：盧紫妍
+### 姓名：盧紫妍（阿紫）
 ### 系級：科技114乙
 ## 課程筆記區
 [220912_Hello world](http://localhost:8888/notebooks/Documents/GitHub/PL/Untitled.ipynb?kernel_name=python3)
