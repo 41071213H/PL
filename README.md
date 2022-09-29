@@ -20,6 +20,12 @@
 [220929_final](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220929_HW1_final.ipynb)
 --所有內容加上詳細解說<br>
 [HW1學習筆記](http://localhost:8888/edit/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
+
+
+### 其他學習資料
+[大家的名單](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)<br>
+[集合使用](https://ithelp.ithome.com.tw/articles/10186540)<br>
+
 <details><summary>MARKDOWN</summary>
 
  
@@ -31,8 +37,6 @@
 - [ ] 複習
 - [ ] 進度
 - [ ] 再複習
- 
-[大家的名單](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)
 
 ```mermaid
 graph TD;
