@@ -6,20 +6,21 @@
 
 
 ## 課程筆記區
-[220912_Hello world](http://localhost:8888/notebooks/Documents/GitHub/PL/Untitled.ipynb?kernel_name=python3)<br>
-[220929_week4_dictionary](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220929_python03_dictionary.ipynb)
+[220912_Hello world](https://github.com/41071213H/PL/blob/main/20220912%20Hello%20world.ipynb)<br>
+[220929_week4_dictionary](https://github.com/41071213H/PL/blob/main/220929_python03_dictionary.ipynb)
+[220915_Python1](https://github.com/41071213H/PL/blob/main/220915_Python01.ipynb)
 ## 作業連結區
-[220915_Python1](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220915_Python01.ipynb)
-## 專題連結區
 ### HW1
 >>
-[220929_try_1](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220928_HW1_try1.ipynb)
+[220929_try_1](https://github.com/41071213H/PL/blob/main/220928_HW1_try1.ipynb)
 --真的第一次嘗試<br>
-[220929_try_2](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220929_HW1_try2.ipynb)
+[220929_try_2](https://github.com/41071213H/PL/blob/main/220929_HW1_try2.ipynb)
 --將第一次遇到的問題重現<br>
-[220929_final](http://localhost:8888/notebooks/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/220929_HW1_final.ipynb)
+[220929_final](https://github.com/41071213H/PL/blob/main/220929_HW1_final.ipynb)
 --所有內容加上詳細解說<br>
-[HW1學習筆記](http://localhost:8888/edit/Desktop/111-1/%E5%9B%9B%EF%BC%882-4%EF%BC%89%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/GitHub/PL/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
+[HW1學習筆記](https://github.com/41071213H/PL/blob/main/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
+## 專題連結區
+
 
 
 ### 其他學習資料
