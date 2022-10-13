@@ -7,7 +7,8 @@
 
 ## 課程筆記區
 [220912_Hello world](https://github.com/41071213H/PL/blob/main/20220912%20Hello%20world.ipynb)<br>
-[220929_week4_dictionary](https://github.com/41071213H/PL/blob/main/220929_python03_dictionary.ipynb)
+[220929_week4_dictionary](https://github.com/41071213H/PL/blob/main/220929_python03_dictionary.ipynb)<br>
+[221013_week6_正則化](https://github.com/41071213H/PL/blob/main/221013_%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)<br>
 [220915_Python1](https://github.com/41071213H/PL/blob/main/220915_Python01.ipynb)
 ## 作業連結區
 ### HW1
