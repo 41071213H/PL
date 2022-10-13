@@ -1,6 +1,7 @@
 {
+"all":[
   {
-    "State": "Alabama",
+    "State":"Alabama",
     "2021Tornadoes": 100,
     "2021Fatalities": 7,
     "2020Tornadoes": 78,
@@ -13,7 +14,7 @@
     "2017Fatalities": 0
   },
   {
-    "State": "Alaska",
+    "State":"Alaska",
     "2021Tornadoes": 0,
     "2021Fatalities": 0,
     "2020Tornadoes": 0,
@@ -26,7 +27,7 @@
     "2017Fatalities": 0
   },
   {
-    "State": "Arizona",
+    "State":"Arizona",
     "2021Tornadoes": 6,
     "2021Fatalities": 0,
     "2020Tornadoes": 4,
@@ -39,7 +40,7 @@
     "2017Fatalities": 0
   },
   {
-    "State": "Arkansas",
+    "State":"Arkansas",
     "2021Tornadoes": 41,
     "2021Fatalities": 2,
     "2020Tornadoes": 41,
@@ -52,7 +53,7 @@
     "2017Fatalities": 0
   },
   {
-    "State": "California",
+    "State":"California",
     "2021Tornadoes": 5,
     "2021Fatalities": 0,
     "2020Tornadoes": 7,
@@ -637,7 +638,7 @@
     "2017Fatalities": 0
   },
   {
-    "State": "Wisconsin",
+    "State":"Wisconsin",
     "2021Tornadoes": 28,
     "2021Fatalities": 0,
     "2020Tornadoes": 22,
@@ -662,4 +663,5 @@
     "2017Tornadoes": 15,
     "2017Fatalities": 0
   }
+]
 }
