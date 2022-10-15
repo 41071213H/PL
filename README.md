@@ -21,6 +21,18 @@
 [220929_final](https://github.com/41071213H/PL/blob/main/220929_HW1_final.ipynb)
 --所有內容加上詳細解說<br>
 [HW1學習筆記](https://github.com/41071213H/PL/blob/main/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
+
+### HW2
+>>
+[221013_try_1](https://github.com/41071213H/PL/blob/main/221013_HW2_try1.ipynb)
+--第一次<br>
+[221015_try_2](https://github.com/41071213H/PL/blob/main/221015_HW2_try2.ipynb)
+--第二次<br>
+[221015_final](https://github.com/41071213H/PL/blob/main/221015_hw2-final.ipynb)
+--最終版本，所有內容加上詳細解說<br>
+[HW2學習筆記](https://github.com/41071213H/PL/blob/main/HW2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98)
+--所有思路過程<br>
+
 ## 專題連結區
 
 
