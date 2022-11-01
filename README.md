@@ -14,34 +14,34 @@
 ## 作業連結區
 ### HW1
 >>
-[220929_try_1](https://github.com/41071213H/PL/blob/main/220928_HW1_try1.ipynb)
+[220929_try_1](https://github.com/41071213H/PL/blob/main/HW1/220928_HW1_try1.ipynb)
 --真的第一次嘗試<br>
-[220929_try_2](https://github.com/41071213H/PL/blob/main/220929_HW1_try2.ipynb)
+[220929_try_2](https://github.com/41071213H/PL/blob/main/HW1/220929_HW1_try2.ipynb)
 --將第一次遇到的問題重現<br>
-[220929_final](https://github.com/41071213H/PL/blob/main/220929_HW1_final.ipynb)
+[220929_final](https://github.com/41071213H/PL/blob/main/HW1/220929_HW1_final.ipynb)
 --所有內容加上詳細解說<br>
-[HW1學習筆記](https://github.com/41071213H/PL/blob/main/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
+[HW1學習筆記](https://github.com/41071213H/PL/blob/main/HW1/HW1%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)<br>
 
 ### HW2
 >>
-[221013_try_1](https://github.com/41071213H/PL/blob/main/221013_HW2_try1.ipynb)
+[221013_try_1](https://github.com/41071213H/PL/blob/main/HW2/221013_HW2_try1.ipynb)
 --第一次<br>
-[221015_try_2](https://github.com/41071213H/PL/blob/main/221015_HW2_try2.ipynb)
+[221015_try_2](https://github.com/41071213H/PL/blob/main/HW2/221015_HW2_try2.ipynb)
 --第二次<br>
-[221015_final](https://github.com/41071213H/PL/blob/main/221015_hw2-final.ipynb)
+[221015_final](https://github.com/41071213H/PL/blob/main/HW2/221015_hw2-final.ipynb)
 --最終版本，所有內容加上詳細解說<br>
-[HW2學習筆記](https://github.com/41071213H/PL/blob/main/HW2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98)
+[HW2學習筆記](https://github.com/41071213H/PL/blob/main/HW2/HW2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98)
 --所有思路過程<br>
 
 ### HW3
 >>
-[221030_try](https://github.com/41071213H/PL/blob/main/Untitled1.ipynb)
+[221030_try](https://github.com/41071213H/PL/blob/main/HW3/Untitled1.ipynb)
 --這次只有一次，因為卡關太多次，嘗試了又放棄了，這次好難好混亂，嗚嗚嗚<br>
-[221102_final](https://github.com/41071213H/PL/blob/main/221030_HW3_final.ipynb)
+[221102_final](https://github.com/41071213H/PL/blob/main/HW3/221030_HW3_final.ipynb)
 --最終版本，操作小說明<br>
 [HW3學習筆記]()
 --這次完全不知道怎麼筆記qq<br>
-[意外小收穫（可以幫你直接下載網頁圖片的地方）](https://github.com/41071213H/PL/blob/main/%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8B%95%E4%B8%8B%E8%BC%89%E5%9C%96%E7%89%87%E7%9A%84%E7%A8%8B%E5%BC%8F.ipynb)
+[意外小收穫（可以幫你直接下載網頁圖片的地方）](https://github.com/41071213H/PL/blob/main/HW3/%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8B%95%E4%B8%8B%E8%BC%89%E5%9C%96%E7%89%87%E7%9A%84%E7%A8%8B%E5%BC%8F.ipynb)
 --但是畫質不優<br>
 
 ## 專題連結區
