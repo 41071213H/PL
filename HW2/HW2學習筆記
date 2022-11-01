@@ -1,0 +1,90 @@
+import json
+open/load file
+拆括號：重新命名list
+
+＊基礎-尋找（for 讓他一個{}尋找一次）
+＊定義函數 find_you_want
+things = str()
+def find_you_want(state,things):
+    ask = input("輸入state")
+    things = input("輸入年份及宜想搜尋的東西")
+
+    for i in temp:#這邊i的型態為dict
+        if ask == i.get(state):#電腦很笨 一定要注意大小寫。
+            print(ask, '龍捲風個數', i.get(things), '個')  
+find_you_want('State',things)
+
+
+＊計算全美國五年分別的個數>龍捲風數/死亡人數
+＊定義函數 sum_allstate_theyear
+/year = [2017,2018,2019,2020,2021]/
+
+def sum_the_year(things):
+    summ = int()
+    things_list = []
+    k = 0
+    while k<5:
+        year += 1
+        k += 1
+        for i in temp:
+            summ += i.get(year+things)
+        print(summ,things,'in',year)
+        things_list.append(summ)
+    print(things_list)
+sum_the_year('Tornadoes')
+
+
+＊計算該地區五年的個數
+＊定義函數 sum_the_state
+
+def sum_the_state(things):
+    list_things = []
+    summ = int()
+    num = -1
+    year = 2016
+    for i in temp:
+        num += 1
+        year = 2016
+        summ = 0
+        j=0
+        while j<5 :
+            year += 1
+            years = str(year)
+            summ += i.get(years+things)
+            j += 1
+        print(summ,things,'5 years','in',state[num])
+        list_tornadoes.append(summ)
+sum_the_state('Tornadoes')
+
+＃變數區
+tornadoes >該年的tornadoes數（「sum_the_year」的list）
+/years >該年（2017-2021)/
+state > all地區list
+    state = []
+    for i in temp:
+        state.append(i.get('State'))
+    print(state)
+top5_2021_tor = []
+top5_2020_tor = []
+top5_2019_tor = []
+top5_2018_tor = []
+top5_2017_tor = []
+top10_all_tor = []
+＃定義區
+1)基本尋找
+2)排序top5
+3)
+
+#要出來的東西
+1)全美國該年的（龍捲風數/死亡人數）排序>哪一年特別嚴重
+    全美國五年分別的個數 13
+    排序
+2)地區們個別年的top5>拿來(4)做比較
+    地區們個年的排序 24
+    
+3)地區們五年加總的top10>這五年發生最多的地區
+    地區們五年加總排序 19
+    
+4)(2）聯集 計算分別死亡率（人數/個數）
+    list_show = set(top5_2021_tor)&set(top5_2020_tor)&set(top5_2019_tor)&set(top5_2018_tor)&set(top5_2017_tor)
+
