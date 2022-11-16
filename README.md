@@ -46,11 +46,11 @@
 
 ### HW4
 >>
-[221115 找資料selenium](https://github.com/41071213H/PL/blob/main/HW3/Untitled1.ipynb)
+[221115 找資料selenium](https://github.com/41071213H/PL/blob/main/HW4/221115%20HW4%20%E6%8A%93%E8%B3%87%E6%96%99.ipynb)
 --因為要用動態 去搜尋fb的內容，但是一直做不出來<br>
-[221115_找資料beautifulsoup](https://github.com/41071213H/PL/blob/main/HW3/221030_HW3_final.ipynb)
+[221115_找資料beautifulsoup]https://github.com/41071213H/PL/blob/main/HW4/221115%20.ipynb)
 --結果這個也做不出來<br>
-[221116 HW4 拜託 最後還是失敗版](https://github.com/41071213H/PL/blob/main/HW3/%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8B%95%E4%B8%8B%E8%BC%89%E5%9C%96%E7%89%87%E7%9A%84%E7%A8%8B%E5%BC%8F.ipynb)
+[221116 HW4 拜託 最後還是失敗版](https://github.com/41071213H/PL/blob/main/HW4/221116%20HW4%20%E6%8B%9C%E8%A8%97%20%E6%9C%80%E5%BE%8C%E9%82%84%E6%98%AF%E5%A4%B1%E6%95%97%E7%89%88.ipynb)
 --換了內容還是做不出來<br>
 [最後用其他工具做文字探勘](https://medium.com/@41071213h/%E4%BD%9C%E6%A5%AD%E5%9B%9B-%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E8%B3%87%E6%96%99-%E5%9B%A0%E7%82%BA%E7%A8%8B%E5%BC%8F%E5%81%9A%E4%B8%8D%E5%87%BA%E4%BE%86-%E5%9B%A0%E6%AD%A4%E7%94%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7-5b84442b1ea3)
 --最終內容<br>
