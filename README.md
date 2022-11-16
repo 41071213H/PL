@@ -48,7 +48,7 @@
 >>
 [221115 找資料selenium](https://github.com/41071213H/PL/blob/main/HW4/221115%20HW4%20%E6%8A%93%E8%B3%87%E6%96%99.ipynb)
 --因為要用動態 去搜尋fb的內容，但是一直做不出來<br>
-[221115_找資料beautifulsoup]https://github.com/41071213H/PL/blob/main/HW4/221115%20.ipynb)
+[221115_找資料beautifulsoup](https://github.com/41071213H/PL/blob/main/HW4/221115%20.ipynb)
 --結果這個也做不出來<br>
 [221116 HW4 拜託 最後還是失敗版](https://github.com/41071213H/PL/blob/main/HW4/221116%20HW4%20%E6%8B%9C%E8%A8%97%20%E6%9C%80%E5%BE%8C%E9%82%84%E6%98%AF%E5%A4%B1%E6%95%97%E7%89%88.ipynb)
 --換了內容還是做不出來<br>
