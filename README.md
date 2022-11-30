@@ -46,7 +46,7 @@
 
 ### HW4
 >>
-[221115 找資料selenium](https://github.com/41071213H/PL/blob/main/HW4/221115%20HW4%20%E6%8A%93%E8%B3%87%E6%96%99.ipynb)
+[221115_找資料selenium](https://github.com/41071213H/PL/blob/main/HW4/221115%20HW4%20%E6%8A%93%E8%B3%87%E6%96%99.ipynb)
 --因為要用動態 去搜尋fb的內容，但是一直做不出來<br>
 [221115_找資料beautifulsoup](https://github.com/41071213H/PL/blob/main/HW4/221115%20.ipynb)
 --結果這個也做不出來<br>
@@ -61,8 +61,8 @@
 --重新開始爬其他網頁！終於成功了～～<br>
 [221129_HW5_重新開始＿文字探勘](https://github.com/41071213H/PL/blob/main/HW5/221129_HW5_%E9%87%8D%E6%96%B0%E9%96%8B%E5%A7%8B%EF%BC%BF%E6%96%87%E5%AD%97%E5%88%86%E6%9E%90.ipynb)
 --文字探勘也順利出來了～～<br>
-[221130_HW5_重新開始＿共獻分析](https://github.com/41071213H/PL/blob/main/HW5/221130_HW5_%E9%87%8D%E6%96%B0%E9%96%8B%E5%A7%8B%EF%BC%BF%E5%85%B1%E7%8D%BB%E5%88%86%E6%9E%90.ipynb)
---共獻分析也粗略的出來了！<br>
+[221130_HW5_重新開始＿貢獻分析](https://github.com/41071213H/PL/blob/main/HW5/221130_HW5_%E9%87%8D%E6%96%B0%E9%96%8B%E5%A7%8B%EF%BC%BF%E5%85%B1%E7%8D%BB%E5%88%86%E6%9E%90.ipynb)
+--貢獻分析也粗略的出來了！<br>
 [medium新的文字探勘-科技新報](https://medium.com/@41071213h/%E4%BD%9C%E6%A5%AD%E5%9B%9B-%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E8%B3%87%E6%96%99-20221130%E8%A3%9C-79ebec6e7848)--重新開始！！！<br>
 
 ## 專題連結區
