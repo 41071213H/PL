@@ -73,7 +73,7 @@
 ### 其他學習資料
 [大家的名單](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)<br>
 [集合使用](https://ithelp.ithome.com.tw/articles/10186540)<br>
-[爬蟲教學](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
+[爬蟲教學](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)<br>
 [requests套件](https://blog.gtwang.org/programming/python-requests-module-tutorial/)
 
 <details><summary>MARKDOWN</summary>
