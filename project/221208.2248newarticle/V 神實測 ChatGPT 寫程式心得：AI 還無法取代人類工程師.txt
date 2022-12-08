@@ -1,0 +1,16 @@
+
+
+
+
+為了實測，Vitalik Buterin 使用 ChatGPT 看能否讓 ChatGPT 解決一個問題，即更改他的 vitalik.eth ENS 紀錄註冊的 IPSF 雜湊值，以讓他部落格新文章可透過 ENS 查看。
+通常這麼做要有兩步驟，第一是將更新內容發到 IPFS，第二個步驟是更新 ENS 紀錄，以含新內容 IPFS 雜湊值，先前 Vitalik 已透過 Fleek 將第一個步驟自動化，只需內容推送至 Github，Fleek 會自動將新版本上傳到 IPFS。
+
+Vitalik Buterin 想藉一段 Javascript 腳本自動化剩下手動步驟。他給 ChatGPT 的任務很簡單，就是用正確調用數據，向正確地址發送一個以太坊交易，以更新 ENS 合約的內容雜湊值紀錄，使其等於 Fleek 給他的 IPFS 雜湊值。
+不過實測後，Vitalik Buterin 結論是：
+GPT-3 聊天機器人當寫程式助手很有幫助，但它也犯了很多錯。最後，我可以很快修正它的錯，因為我具備很多領域的知識。
+因此 Vitalik Buterin 認為，此時此刻人工智慧離成為人類程式設計師的替代品還非常遙遠，ChatGPT 只是加速他本來用 Google 就能搞清楚的事。
+不過 Vitalik Buterin 也提到，ChatGPT 確實介紹了一些從未見過的編碼模式，且 ChatGPT 編寫 base converter 的速度比他快，對編寫 Javascript 發送簡單交易的範例操作來說，ChatGPT 做得相當好：
+人工智慧迅速進步，我希望還能繼續進步，並隨著時間過去消除錯誤。
+
+但 Rooter 警告，需警惕區塊鏈應用使用 ChatGPT 創建代碼的可靠性，鑑於區塊鏈代碼不可變，且執行後無法更改，開發者需更小心。
+

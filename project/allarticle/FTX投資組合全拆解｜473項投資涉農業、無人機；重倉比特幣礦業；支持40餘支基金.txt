@@ -2,40 +2,12 @@
 
  
 
-目前 FTX 面臨 80 億美金的資金缺口，但據金融時報 SBF 的風險投資基金的投資變現或只能換回 10 至 20 億美金，也就是說投資人最多只能收回三分之一甚至更少的資金。
-曾在牛市中斬獲高額融資和海量用戶下的 FTX 和 Alameda，如何使用高達 52 億美元的資金開啟「買買買」模式？這份投資清單又透露出怎樣的內幕？
-從這份清單來看，FTX/Alameda 的整個投資版圖除了通過 FTX Trading Ltd.、Alameda Research LLC、Alameda Ventures Ltd. 等實體實現外，還藉著 Clifton Bay Investments LLC、Cottonwood Grove Limited、Maclaurin Investments Ltd、Goodman Investments Ltd、Island Bay Ventures Inc、West Realm Shires Inc 和 Genesis Block 等相關子公司的名義進行。
-在眾多項目中，Top5 的投資分別是 Genesis Digital Assets（5.5 億美元）、Anthropic（4.99 億美元）、Digital Assets DA AG（3.2 億美元）、K5（3.2 億美元）和 IEX（2.7 億美元），佔總金額的超三分之一。而股權、基金、Token 和收購是 SBF 重倉押注的方向，高達 49.4 億美元的金額佔總投資額度的約 93.7%。
-
-
-股權
-股權投資是最大支出項，金額超 27.9 億美元，數量為 194 個。其中，Genesis Digital 是 Alameda 重倉的風投項目，其於 2021 年 8 月至 2022 年 4 月期間通過 4 次投資共計向 Genesis Digital 投資了 11.5 億美元。
-根據此前彭博社披露，Alameda 分別是 2021 年 8 月投資的約 1 億美元、2022 年 1 月投資的 5.5 億美元、2022 年 2 月投資 2.5 億美元以及 2022 年 4 月進行的 2.5 億美元投資。
-Digital Assets 的前身是 Genesis Mining，是全球最大的比特幣挖礦公司之一，曾與撫州創世紀涉及 50 萬張顯卡的官司。儘管牛市期間礦企賺的盆滿缽滿，但隨著市場表現疲軟、網絡難度增加以及能源成本飆升，這些企業的收入大幅縮減。
-
-人工智慧安全和研究公司 Anthropic 也是獲得 Alameda 最大手筆投資的公司之一，這是家由近期大火的 OpenAI 前核心員工組成的 AI 創業公司，獲得 Clifton Bay Investments LLC（SBF 持股佔比約 67%）近 5 億美元投資。
-位於韓國的移動金融服務平台 Pionic 和前 Facebook 旗下加密核心成員創辦的 Web3 基礎設施 Mysten Labs （Sui）則也分別獲得了近億美元的投資。上述四家獲得的投資資金佔此類總金額超 66.7%。
-
-基金
-SBF 旗下公司是眾多頂級基金的 LP，共投入資金超 11.3 億美元，包含 K5、Modulo Capital、紅杉（包含紅杉基金和 Heritage 基金）、Liquid Value Fund I（Sino Global Capital 旗下）、SkyBridge Capital（天橋資本）、Paradigm 和 Multicoin 等 41 家來自傳統和加密領域的基金。
-其中，K5 Ventures 是總部位於矽谷的一家專注早期投資的風險投資機構，SBF 可間接獲得由 Elon Musk 創立的 SpaceX 和 Boring Company 股份。
-紅杉則獲得 2 億美元的投資，而其旗下有兩支基金對 FTX.com 及 FTX US 進行投資，因 FTX 倒台損失了 1.5 億美元，並聲稱要改進盡調程序。紅杉資本合夥人 Michelle Bailhe 曾對 SBF 讚賞有加，後者也曾在破產前通過電話向包括紅杉在內的投資機構尋求 70 億美元融資。
-Token
-FTX/Alameda 投資的 Token 數量為 176 個，投資金額為 3.8 億，僅佔全部資金的 7.2%。所有項目的平均投資金額為 216 萬美元，且大部分均在百萬美元以下，5 萬至 10 萬美元居多。
-而在所有細分賽道中，FTX/Alameda 最愛投 Layer1、DeFi、NFT 和遊戲領域。其中，前五大項目分別為 NEAR（8000 萬美元）、HOLE（6750 萬美元）、Polygon（5000 萬美元）、Port Finance（3340 萬美元）和 Mina（2000 萬美元）。有意思的是，按表上數據，FTX 對外界認為的「親兒子」Solana 的投資僅不到 170 萬美元，這可能是因為 FTX 是從二級市場上對 Solana 進行大量增持，而非直接的一級投資。
-收購
-FTX/Alameda 收購或股權收購的公司有 6 家，金額近 6.4 億美元，佔總資金的 12.1%。其中，來自瑞士的金融工具代幣化公司 Digital Assets DA AG 的獲得 3.2 億美元，美國證券平台 IEX 為 2.7 億美元。其中，Digital Assets 在 FTX 停止提款併申請破產保護後，其約有 1200 萬美元滯留在 FTX 上，這一數字約佔其管理的 2 億美元資產的 6%，但這筆資金的約三分之一已投保。
-另外，IEX 曾考慮與 SBF 合資建立一個明確符合美國證券交易委員會（SEC）標準的新加密交易平台，並向 SEC 主席 Gary Gensler 及 SEC 高級官員提供了他們想法的大致輪廓，還質疑現有的 SEC 規則是否適用於他們的新企業。不過，Gensler 對該提議不溫不火，沒有明確排除這種可能性，也沒有表示會給這筆交易開綠燈。
-除了加密領域的相關投資外，FTX/Alameda 還在倒閉前的幾個月裡進行了不少讓人 「看不懂」 的非正統投資，包括軍用無人機 Brinc Drones（4000 萬美元）、美國農業科技公司 80 Acres（2500 萬美元）、生育新創診所 Ivy Natal（150 萬美元）、化學公司 Fern Labs Inc.（100 萬美元）、法律服務聊天機器人 DoNotPay（75 萬美元）、減肥藥公司 Equator Therapeutics（50 萬美元）和線上創業平台 Owner（25 萬美元）等。
-此外，Alameda 似乎也對媒體公司特別感興趣，購買了中國區塊鏈媒體星球日報（500 萬美元）25% 的股份，區塊律動（356 萬美元）30% 的股份，以及位於紐約的 Web3 媒體公司 Trustless Media 投資了 120 萬美元。
-對於媒體投資，SBF 曾解釋稱，媒體很重要，他想要支持好的媒體企業，對這些都沒有治理，也並不是在尋找對他們的管理。他希望支持記者做一些偉大的工作，因為他們所做的真的很重要，大家需要有批判的眼光看待故事，有真正的調查性新聞對這個世界來說是健康的。
-自暴雷以來，SBF 在資金和管理上問題一直閃爍其詞，聲稱並沒有混合資金，子公司都是獨立業務並獨立管理，且他還否認挪用客戶資金。而這份投資清單讓這個白人小子被「打臉」，所謂的「不知情」、「沒詐騙」 只是他推卸責任的一個說辭罷了。
-（本文由作者 PANews 授權，屬作者之觀點不代表動區立場。文章內容與觀點亦不是投資建議。）
+據先前了解，FTX 疑在 SBF 的管理下，挪用數十億美元的客戶資產借予做市商 Alameda Research，並在無法回補的後果下引發流動性破裂。該交易所還在聲請破產後，遭到駭客入侵，盜走了超過 6 億美元的加密資產。
+華爾街日報報導稱，該 AlixPartners 調查團隊提供會計蒐證和法律諮詢服務，係由美國證券交易委員會（SEC）執法部門的前首席會計師 Matt Jacques 領導。
 
 📍相關報導📍
-SBF 不斷發聲，為什麼他還沒坐牢？
-精華整理》SBF對談紐時作家 : Alameda與FTX資金為何會混合？對刑責擔心嗎？
-CZ駁5個FTX誤解》我不是產業救世主、SBF是騙子壞人、不是我害死FTX的
 
- 
+SBF 辯「從沒出金領過錢」：FTX 一直有財務風控，新CEO不熟悉公司運作
+FT爆背後真相：Alameda去年因做 FTX 用戶對手盤，承擔「10億美元損失」！
+
 
