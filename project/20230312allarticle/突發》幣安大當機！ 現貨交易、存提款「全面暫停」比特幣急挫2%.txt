@@ -1,0 +1,22 @@
+
+
+ 
+
+Arbitrum 代幣 ARB 初始總供應量 100 億枚，每年最多通貨膨脹 2%。代幣空投方面，初始總供應量的 11.62% 會空投給 Arbitrum 用戶，1.13% 將空投給構建在 Arbitrum 構建應用的 DAO 金庫，空投快照時間為 2 月 6 日（Arbitrum One 區塊高度 58642080）。具體代幣分配如下：
+
+
+大家最關心的空投資格方面，Arbitrum 制定了一個積分系統，積分上限為 15 分，積分標準主要追蹤用戶在Arbitrum One 上的活動；一小部分標準適用於 Arbitrum Nova 上的活動，Arbitrum Nova 用戶可以獲得 4 個積分（如果已經在Arbitrum One 上獲得 4 分或 4 分以上，則額外再加 1 分）。
+
+Arbitrum One 上積分賺取符合條件：
+
+積分可兌換的代幣數量：
+
+Arbitrum 也制定了一些抗女巫規則，包括：
+
+DAO 空投方面，Arbitrum 為在其生態系統中構建應用的 DAO 以及以太坊貢獻者組織 Protocol Guild 分配單獨的空投（初始總供應量的 1.13%），這部分空投代幣是根據多種因素加權的，包括項目在 Arbitrum 上的持續時間、鏈上TVL、項目是否是 Arbitrum 原生的，以及項目是否使用實際的鏈上資金運作。
+
+📍相關報導📍
+速觀 Arbitrum 發展近況：全面找尋 Alpha 機會
+Arbitrum熱門生態》Camelot的Launchpad申購教學、如何參與Factor Dao公募？
+Arbitrum募資黑箱》Camelot 爆「惡意超募」！新項目秒破發散戶被割韭
+

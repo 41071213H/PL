@@ -1,0 +1,12 @@
+
+
+ 
+
+USDT 目前已經加入到 Telegram 指令 @wallet 機器人內，該機器人由負責 TON（The Open Network）區塊鏈開發、維護工作的 TON 基金會所開發，使 Telegram 用戶能夠直接在應用程式中購買、收發和交易 Toncoin（TON）代幣，且不需手續費。其他錢包支援交易、支付的幣種包括 BTC、TON，現今再添市值最大的美元穩定幣 USDT。
+
+📍相關報導📍
+Telegram區塊鏈利多》已凍結 10.8億顆 $TON，總供應量 21%在4年後解鎖
+Telegram「截圖釣魚」詐騙肆虐！如何設定2FA雙重驗證、被盜怎麼辦？
+引爆Telegram區塊鏈》台北場TON黑客松報名人數創紀錄！對接2.5億鎂生態基金
+
+

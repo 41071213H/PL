@@ -1,0 +1,21 @@
+
+
+ 
+
+OKT Chain 將繼續是 L1 鏈，最近的發布將是 OKTC WASM（WebAssembly 程式語言），它允許我們通過 Rust 或 C++ 開發高性能 Dapp。OKTC（OKT Chain）和 OKBC （OKB Chain）都在 OKX 核心鏈策略上。
+
+
+
+OKB Chain 預計今年 Q1 上線
+
+
+
+
+
+OKB 幣價走勢圖。圖源：CoinGecko
+
+📍相關報導📍
+手機挖礦》Core DAO啟動主網空投爆紅，火必、OKX等將開放交易
+快訊》OKX 交易所賠償BLUR投資人！ 入帳延遲「最多賠500枚OKB」
+OKX回應「CELT割韭菜事件」：將空投300萬USDT補償用戶；Celestial內鬼勾結外部做市商
+

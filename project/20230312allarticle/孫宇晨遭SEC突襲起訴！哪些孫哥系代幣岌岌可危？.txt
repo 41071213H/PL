@@ -1,0 +1,58 @@
+
+
+ 
+
+本文將介紹有關 Layer Zero（全鏈協議）敘事的項目，包括 StargateFinance、AltitudeDeFi、Pendle、Tapioca 等。這些項目都有著獨特的優勢和特點，可能會成為未來的潛力股。
+LayerZero 是什麼？
+Layer Zero 是一種全鏈協議，可以使區塊鏈之間無縫通信。這意味著：
+• 無限的流動性；
+• 單一代幣面額；
+• 安全性保持不變。
+Stargate Finance $STG
+簡單來說，$STG 是 LayerZero 內的藍籌跨鏈橋。
+$STG 代幣向持有者支付以 $USDC 計算的 0.01% 的所有轉帳費用，隨著越來越多的鏈加入，這個收益將會增長。
+一個被低估的催化劑是即將解鎖的 $STG 代幣。
+雖然這可能會導致一些拋售壓力，但它將擺脫 VC（風險投資）尋求退出的狀態，並允許長期持有者累積。
+
+
+Altitude DeFi $ALTD
+Altitude 的跨鏈橋接方法是獨一無二的。Altitude 不僅僅轉移穩定幣的流動性，還專注於橋接藍籌資產。
+這消除了圍繞穩定幣流動性的中心化，從而更容易移動跨鏈。
+作為 LayerZero 之上的首批應用程式之一，Altitude 可以鞏固自身作為主要橋梁的地位。它將最初支持 8 個鏈，其中費用將分配給 $gALTD 持有者。
+
+Pendle 使用戶能夠對收益率資產進行代幣化和交易，例如 $ETH，創建一個動態市場，您可以在其中：
+• 以折扣價買入資產；
+• 實現低風險、穩定增長的固定收益；
+• 長期收益；
+• 定製收益策略。
+預計與 LayerZero 的整合將加速跨鏈增長，增加對 $PENDLE 衍生品的需求。用戶將能夠在任何鏈上訪問和使用這些資產。
+Tapioca $TAP
+Tapioca 旨在成為全鏈貨幣市場。其 $USDO 穩定幣未來可能會被更多人采用。
+它是由各種流動性抵押衍生品（LSD）抵押的，使得 $TAP 持有者可以受益，因為他們可以收取 50% 的費用。
+RDNT Capital $RDNT
+Radiant 旨在成為全方位 DeFi 市場，用戶可以在多個鏈上無縫地存款和借貸。剛剛推出的 V2 版本揭示了：
+• $RDNT 代幣經濟學改進；
+• 跨鏈借貸；
+• LayerZero OFT 實施；
+• 費用模型改進。
+
+Trader joe $JOE
+Trader joe 是 Avalanche（雪崩）生態中最大的 DEX ，其最近利用了全鏈技術，這意味著 $JOE 不再局限於一個 DEX，並可以在 $ARB 和 $BNB 生態系統中找到。
+這將導致更多的流動性、交易量，最終會有更多的費用。對於 Traderjoe 來說，LayerZero 的好處是：
+$JOE 持有者可以通過 Stargate 自由漫遊，可以在頂級生態係統（如 Arbitrum 和 BNB 鏈）中增加他們的代幣流動性。
+Mugen Finance $MGN
+Mugen 是一個收益聚合器，可以在跨鏈上解鎖收益。它建立在最大的生態系統之上，使得更多的生態系統可以使用。
+目前部署在 Arbitrum  上，但很快將擴展到更多的生態系統。
+目前，MugenFinance 收取 10% 的費用，用於提供收益聚合，並用於資助開發和團隊。通過將資金存入金庫中創建 $MGN，沒有龐氏經濟學風險。
+
+Rage trade $RAGE
+全鏈 Perpdex 通過將其他協議中的流動性重複利用到 $RAGE 中，提高了資本效率。
+這種回收利用的流動性使得 Rage 可以在所有與 LayerZero 兼容的鏈上重複使用 ETH-USD 流動性。
+
+目前的 80-20 vault 收益率為 15%。
+
+📍相關報導📍
+LayerZero免費測試幣「變真錢」！Goerli 跨鏈橋幣 GETH 暴漲1307%
+LayerZero多鏈野心》9月版本支援非 EVM 鏈；技術簡析、生態項目一覽
+什麼是Gh0stly Gh0sts？首個基於LayerZero、跨7條鏈的幽靈NFT，衝上Opensea交易榜首
+

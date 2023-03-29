@@ -1,0 +1,30 @@
+
+
+ 
+
+而 Eular 作為多個知名 DeFi 協議的上游資金提供商，此次遭駭可說是牽連甚廣，包含 Aztec、Yield、Balancer、SwissBorg、Idle Finance、Angle 和 Yearn…等協議都在 Euler 中存有數百萬美元以上的資產。
+Euler 先禮後兵
+
+不過並未收到駭客善意回覆，於是 Euler Finance 昨日再次向駭客發布消息稱：
+繼續我們昨天的消息，如果 24 小時內 90% 的資金沒有歸還，明天我們將懸賞 100 萬美元的資金以徵集逮捕你的訊息，並在逮捕你後要求歸還所有資金。
+Euler Finance 向駭客發送鏈上訊息
+Euler 正式懸賞 100 萬美元逮捕駭客
+可惜連續兩次駭客都未有所回應，於是 Euler Finance 正式在今（16）晨發布「100 萬美元」徵集對逮捕駭客和返還被盜資金有幫助的訊息。
+
+
+Euler 向受害者返還 100 顆 100 ETH
+
+
+註：wstETH 是 Lido 所發行的 stETH 的封裝版本，當前 78 wstETH 約可在 Uniswap 上換到約 86 ETH。
+
+
+Euler 駭客將 2600 枚 ETH 逐步轉入Tornado Cash
+此外，根據漫霧監測數據顯示，Euler 的黑客到目前為止已經將 2,600 枚 ETH 轉移到一個鏈上標記為Fake_phishing7653 的地址，之後又逐步向 Tornado Cash 轉移。
+
+
+
+📍相關報導📍
+Mango 攻擊者不請律師！「KYC偽裝烏克蘭女性」，或被移送紐約受審
+Mango 攻擊者在波多黎各被逮！遭控「操縱商品價格」，曾是做空Curve、USDT元兇
+做空Curve、USDT又攻擊Mango，Eisenberg何許人也？
+

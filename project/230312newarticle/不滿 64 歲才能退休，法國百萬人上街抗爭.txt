@@ -1,0 +1,9 @@
+
+本週早些時候，蘋果向開發者與公測用戶釋出了 iOS 16.4 的最終測試版；在這次的更新當中，蘋果增加了新 Beats Studio+ 耳機與新 AirPods 的引用。開發者 @aaronp613 於 Twitter 上表示，iOS 16.4 當中引用的新 AirPods 耳機型號為 A3048，新 AirPods 外殼型號則為 A2968；對此，天風國際證券分析師郭明錤認為，這應該是 AirPods Pro 2 的 USB-C 版本。
+
+郭明錤預測，蘋果預計會在今年第二季至第三季開始大量出貨 USB-C 版本 AirPods Pro 2。不過蘋果目前似乎沒有計畫提供 USB-C 版本 AirPods 2 或 AirPods 3。
+
+
+外界大多認為，蘋果會自今年的 iPhone 15 系列開始，將 iPhone 原先搭載的 Lightning 充電埠，轉換成符合歐盟法規的 USB-C 孔。且蘋果有可能會將其大部分（但並不是全部）的配件也轉換為 USB-C 埠。
+這也不是郭明錤第一次提及蘋果會讓未來版本的 AirPods 耳機搭載 USB-C。去年他就曾表示，蘋果會讓 AirPods 及其他配件隨著 iPhone 的腳步，一同轉換成 USB-C 充電。且這樣的改變也適用於 Mac 的巧控鍵盤、巧控版、巧控滑鼠等配件，以及適用於 iPhone 的 MagSafe 行動電源。
+（首圖來源：科技新報）

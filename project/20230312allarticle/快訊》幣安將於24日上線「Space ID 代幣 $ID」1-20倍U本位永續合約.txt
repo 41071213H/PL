@@ -1,0 +1,25 @@
+
+
+ 
+
+據了解，Avalanche（雪崩）是由開發團隊 Ava Labs 打造的區塊鏈，特色主要是共識機制和子網，主要解決三大問題：可擴展性 (Scalability )、高交易費和互操作性 (Interoperability)。
+
+Avalanche 最新區塊時間停留在 27788298。圖源：snowtrace
+
+
+
+官方：Avalanche v.1.9.14 版本發布，已恢復區塊
+隨後， Ava Labs 共同創辦人 Kevin Sekniqi 緊急發文澄清，這是因為節點軟體版本 v1.9.12 的錯誤，導致網路不穩定了長達一個多小時。他呼籲：
+所有問題都已經修復。如果你是 Avalanche 驗證者，請盡快升級到 v.1.9.14。
+此外，Avalanche 工作人員也官方社群中表示，Avalanche 已發布 v.1.9.14 版本，所有 Avalanche 驗應者都應該升級它們的節點，以確保一致性和正常運行時間。
+至截稿前，snowtrace 數據顯示，Avalanche C 鏈現已恢復出塊。
+
+
+不過，AVAX 的幣價似乎並未受到影響，傳出停止出塊後僅小幅下跌 0.2％，現報 16.87 美元
+
+
+📍相關報導📍
+電競龍頭TSM跨足Web3，旗下數據平台Blitz將全面採用Avalanche子網
+Layer 2｜Boba Network進軍至 Avalanche；SushiSwap、EvoVerses加入生態
+雪崩協議開發商｜彭博：Ava Labs正以52.5億美元估值，展開3.5億鎂融資
+

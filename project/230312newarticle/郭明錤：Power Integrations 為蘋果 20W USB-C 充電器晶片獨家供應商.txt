@@ -1,0 +1,10 @@
+
+日前天風國際證券分析師郭明錤才預測，蘋果今年將 iPhone 充電埠全數改為 USB-C 規格後，大多數的用戶可能會購買蘋果 20W USB-C 充電器，原因在於此一產品是官網上目前最實惠的選擇。稍早郭明錤再度發文指稱，Power Integrations 將會成為因為 iPhone 15 系列改採 USB-C 埠後，而讓 20W USB-C 充電器銷售增長的主要受益廠商。
+
+郭明錤指出，Power Integrations 獨家替蘋果提供客製化 20W USB-C 充電器主晶片，其整合了金屬氧化半導體場效電晶體（MOSFET）、次级同步整流控制器（synchronous rectification controllers）等。
+郭明錤預估，蘋果 20W USB-C 充電器出貨量在 2023 年將會顯著成長 30~40% YoY，約有 2.3 億至 2.4 億顆，這將有利 Power Integrations 營收與獲利成長。
+
+
+
+延伸閱讀：
+
